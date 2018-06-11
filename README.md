@@ -37,7 +37,7 @@ for other results located in "./camera_cal"
 
 #### 1. Provide an example of a distortion-corrected image.
 
-All code in pipeline is in "pipeline.ipynb"
+All code in pipeline located in "pipeline.ipynb"
 
 To demonstrate this step, I will describe how I apply the distortion correction to one of the test images like this one:
 ![alt text][image2]
